@@ -1,0 +1,17 @@
+C:\Users\USUARIO\Desktop\prova\SistemaCompras-v3\SistemaCompra.Service\bin\Debug\netstandard2.0\SistemaCompra.Service.deps.json
+C:\Users\USUARIO\Desktop\prova\SistemaCompras-v3\SistemaCompra.Service\bin\Debug\netstandard2.0\SistemaCompra.Service.dll
+C:\Users\USUARIO\Desktop\prova\SistemaCompras-v3\SistemaCompra.Service\bin\Debug\netstandard2.0\SistemaCompra.Service.pdb
+C:\Users\USUARIO\Desktop\prova\SistemaCompras-v3\SistemaCompra.Service\bin\Debug\netstandard2.0\SistemaCompra.Domain.Core.dll
+C:\Users\USUARIO\Desktop\prova\SistemaCompras-v3\SistemaCompra.Service\bin\Debug\netstandard2.0\SistemaCompra.Domain.dll
+C:\Users\USUARIO\Desktop\prova\SistemaCompras-v3\SistemaCompra.Service\bin\Debug\netstandard2.0\SistemaCompra.Infra.Data.dll
+C:\Users\USUARIO\Desktop\prova\SistemaCompras-v3\SistemaCompra.Service\bin\Debug\netstandard2.0\SistemaCompra.Domain.Core.pdb
+C:\Users\USUARIO\Desktop\prova\SistemaCompras-v3\SistemaCompra.Service\bin\Debug\netstandard2.0\SistemaCompra.Domain.pdb
+C:\Users\USUARIO\Desktop\prova\SistemaCompras-v3\SistemaCompra.Service\bin\Debug\netstandard2.0\SistemaCompra.Infra.Data.pdb
+C:\Users\USUARIO\Desktop\prova\SistemaCompras-v3\SistemaCompra.Service\obj\Debug\netstandard2.0\SistemaCompra.Service.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\prova\SistemaCompras-v3\SistemaCompra.Service\obj\Debug\netstandard2.0\SistemaCompra.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\prova\SistemaCompras-v3\SistemaCompra.Service\obj\Debug\netstandard2.0\SistemaCompra.Service.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\prova\SistemaCompras-v3\SistemaCompra.Service\obj\Debug\netstandard2.0\SistemaCompra.Service.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\prova\SistemaCompras-v3\SistemaCompra.Service\obj\Debug\netstandard2.0\SistemaCompra.Service.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\prova\SistemaCompras-v3\SistemaCompra.Service\obj\Debug\netstandard2.0\SistemaCompra.Service.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\prova\SistemaCompras-v3\SistemaCompra.Service\obj\Debug\netstandard2.0\SistemaCompra.Service.dll
+C:\Users\USUARIO\Desktop\prova\SistemaCompras-v3\SistemaCompra.Service\obj\Debug\netstandard2.0\SistemaCompra.Service.pdb
